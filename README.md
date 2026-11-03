@@ -1,7 +1,7 @@
 <div align="center">
 
-# 🐯 牛虎 ┃ 全功能旗舰 TVBox 订阅
-### ⚡ 豆瓣开屏 · 扫码直达 ｜ 🍿 75席免登秒播 ｜ 💎 4K原画杜比 ｜ 💬 实时弹幕 ｜ 🛡️ 10项铁律门禁
+# TVBox 订阅
+### 
 
 [![接口状态](https://img.shields.io/badge/%E6%8E%A5%E5%8F%A3%E7%8A%B6%E6%80%81-%E9%AB%98%E9%80%9F%E5%AD%98%E6%B4%BB-brightgreen?style=for-the-badge&logo=statuspage)](https://github.com/niubihu1/tvbox)
 [![精选站源](https://img.shields.io/badge/%E7%B2%BE%E9%80%89%E7%AB%99%E6%BA%90-133%20%E9%BB%84%E9%87%91%E9%85%8D%E6%AF%94-blue?style=for-the-badge&logo=speedtest)](https://github.com/niubihu1/tvbox)
